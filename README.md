@@ -1,6 +1,6 @@
-# LinkedIn Automation
+# linkedin-automation
 
-Open-source tooling for finding talent, generating leads, discovering profiles, and managing outreach campaigns.
+An open-source LinkedIn automation project for finding talent, generating leads, discovering new profiles, and managing campaigns.
 
 ## Status
 
